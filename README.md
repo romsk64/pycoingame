@@ -1,2 +1,2 @@
-# pycoingames
-All coin games on Python
+# coingame
+CoinGame
